@@ -17,3 +17,7 @@ nav a {
 section {
     padding: 2em;
 }
+#compétences ul {
+    list-style: square;
+    padding-left: 20px;
+}
